@@ -1,9 +1,5 @@
 
-You sent
-pipeline.yml
-
-
-name: CI/CD Pipeline for SIAPipeLine_DATALINK
+name: CI/CD Pipeline for MyProject
 
 trigger:
   branches:
